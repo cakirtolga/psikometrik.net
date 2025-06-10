@@ -1,0 +1,29 @@
+Anket Adı	❓ Soru Sayısı	⏱️ Tahmini Süre (dk)
+Beck Depresyon Ölçeği	21	~5–7 dakika
+Beck Anksiyete Ölçeği	21	~5–7 dakika
+Sınav Kaygısı Ölçeği	25	~6–8 dakika
+Ana Baba Tutumu Envanteri	120	~20–25 dakika
+Benlik Tasarımı Envanteri	65	~15–20 dakika
+Beş Faktör Kişilik Envanteri	50	~12–15 dakika
+Burdon Dikkat Testi	1 test sayfası	~2–5 dakika (yaşa göre değişir)
+Çalışma Davranışı Değerlendirme Ölçeği	73	~10–12 dakika (yaklaşık)
+Çoklu Zeka Ölçeği	73	~15–20 dakika
+Algılanan Aile Desteği Ölçeği (PSS-Fa)   20    ~5–7 dakika
+Aile Envanteri     26    ~6–8 dakika
+Beck Depresyon Ölçeği (Beck-D)     21      ~15–20 dakika
+Holland Meslek Tercih Envanteri    90      ~15–20 dakika
+İnternet Bağımlılığı Ölçeği       20      ~5–7 dakika
+Ergenler için Oyun Bağımlılığı    21      ~5–7 dakika
+Mesleki Eğilim Belirleme Testi    160    ~15–20 dakika
+Mesleki Olgunluk Ölçeği       40    ~20-25 dakika
+UCLA Yalnızlık Ölçeği  20   ~5–7 dakika
+Öğrenme Stilleri Belirleme Testi    33    ~12–15 dakika
+Rathus Atılganlık Envanteri    30   ~8–10 dakika
+SCL-90 Pskolojk Belrt Tarama   90     ~20–25 dakika
+Akademik Benlik Kavramı Ölçeği  170    ~30–35 dakika
+Kendini Değerlendirme Envanteri 230    ~45–55 dakika
+27 Öğrenci Rehberlik İhtiyacı Belirleme Anketi Ortaokul veli    42     ~20–25 dakika
+28 Öğrenci Rehberlik İhtiyacı Belirleme Anketi Ortaokul öğretmen    42     ~20–25 dakika
+29 Öğrenci Rehberlik İhtiyacı Belirleme Anketi Ortaokul öğrenci    38     ~20–25 dakika
+30 numaralı "Öğrenci Rehberlik İhtiyacı Belirleme Anketi (RİBA) (Okul Öncesi-Öğretmen Formu)     37 
+31 Şiddet Sıklığı Anketi veli    40

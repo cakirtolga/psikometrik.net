@@ -1,0 +1,71 @@
+PSİKOMETRİK.NET ÇEREZ POLİTİKASI
+
+Bu politika, psikometrik.net web sitesi üzerinde çerezlerin kullanımına ilişkin bilgilendirme amacıyla hazırlanmıştır. Çerezlerle ilgili tercihlerinizi nasıl yönetebileceğiniz aşağıda detaylandırılmıştır.
+
+1. Çerez Nedir?
+Çerezler, web sitesi ziyaretçilerinin cihazlarına (bilgisayar, telefon, tablet) kaydedilen küçük metin dosyalarıdır. Çerezler, web sitesinin kullanıcı deneyimini iyileştirmek, site performansını analiz etmek ve temel işlevselliği sağlamak için kullanılır.
+
+2. Hangi Çerezler Kullanılır?
+Web sitemizde aşağıdaki amaçlarla çerezler kullanılmaktadır:
+
+A. Zorunlu Çerezler
+Amaç: Web sitesinin temel işlevlerini (örneğin, oturum açma, güvenlik) çalıştırmak için gereklidir.
+
+Örnekler: Oturum (session) çerezleri, güvenlik duvarı çerezleri.
+
+Devre Dışı Bırakma: Bu çerezler olmadan site düzgün çalışmaz. Tarayıcı ayarlarından devre dışı bırakılamaz.
+
+B. Performans ve Analiz Çerezleri
+Amaç: Kullanıcı davranışlarını anonim olarak analiz etmek, site trafiğini ölçmek.
+
+Örnekler: Google Analytics çerezleri.
+
+Yönetim: Tarayıcı ayarlarından veya Google Analytics Opt-Out aracı ile devre dışı bırakılabilir.
+
+C. İşlevsellik Çerezleri
+Amaç: Kullanıcı tercihlerini (dil, tema) hatırlamak.
+
+Örnekler: Dil seçimi çerezleri.
+
+Yönetim: Tarayıcı ayarlarından silinebilir veya engellenebilir.
+
+D. Hedefleme Çerezleri
+Amaç: Psikometrik.net reklam veya pazarlama faaliyeti yürütmediği için bu kategoride çerez kullanılmamaktadır.
+
+3. Üçüncü Taraf Çerezleri
+Analiz Araçları: Google Analytics gibi üçüncü taraf hizmetler, yalnızca anonim ve toplu verilerle sınırlı olarak kullanılır.
+
+Dış Bağlantılar: Web sitemizde yer alan üçüncü taraf bağlantıları (örneğin, akademik kaynaklar) kendi çerez politikalarına tabidir.
+
+4. Çerez Tercihlerinizi Nasıl Yönetirsiniz?
+Tarayıcı Ayarları: Çerezleri tarayıcınızın "Ayarlar" veya "Gizlilik" sekmesinden silebilir veya engelleyebilirsiniz.
+
+Chrome: Chrome Çerez Ayarları
+
+Firefox: Firefox Çerez Ayarları
+
+Safari: Safari Çerez Ayarları
+
+Uyarı: Çerezleri devre dışı bırakırsanız, web sitemizin bazı özellikleri (örneğin, oturum açma) düzgün çalışmayabilir.
+
+5. Çerezlerle İlgili Haklarınız
+KVKK ve ilgili mevzuat kapsamında:
+
+Hangi çerezlerin kullanıldığını öğrenme,
+
+Çerez verilerinin işlenmesine itiraz etme,
+
+Çerez tercihlerinizi değiştirme
+haklarına sahipsiniz.
+
+6. Değişiklikler ve İletişim
+Bu politika, yasal düzenlemeler veya site iyileştirmeleri nedeniyle güncellenebilir. Değişiklikler sitede yayınlandığı tarihte geçerli olur.
+Sorularınız için: destek@psikometrik.net
+
+Son Güncelleme Tarihi: 13/07/2023
+
+Not:
+
+Çerez politikamız, Kişisel Verilerin Korunması Aydınlatma Metni ile uyumludur.
+
+Psikometrik.net, kullanıcı gizliliğine önem verir ve yalnızca açık rıza ile zorunlu çerezler dışında veri toplar.

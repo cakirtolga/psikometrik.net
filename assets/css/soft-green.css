@@ -1,0 +1,111 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: #e9f5e9;
+    color: #2c3e50;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 40px;
+}
+
+.container {
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0, 128, 0, 0.08);
+    width: 100%;
+    max-width: 700px;
+    margin: auto;
+}
+
+h2 {
+    text-align: center;
+    color: #256d1b;
+    margin-bottom: 20px;
+}
+
+label {
+    font-weight: 500;
+    display: block;
+    margin-bottom: 5px;
+    color: #256d1b;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #cbe6cb;
+    border-radius: 6px;
+    background-color: #f9fdf9;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+
+.question {
+    margin-bottom: 25px;
+    padding: 15px;
+    border-left: 4px solid #92d293;
+    background: #f1fbf1;
+    border-radius: 6px;
+}
+
+.options {
+    margin-top: 10px;
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+
+.option-button {
+    background-color: #dff5df;
+    color: #256d1b;
+    border: 2px solid #a6dca6;
+    border-radius: 8px;
+    padding: 10px 16px;
+    cursor: pointer;
+    font-weight: 500;
+    transition: all 0.2s ease-in-out;
+    display: inline-block;
+    user-select: none;
+}
+
+.option-button:hover {
+    background-color: #c8eec8;
+}
+
+.option-button.active {
+    background-color: #83d483;
+    color: white;
+    border-color: #5cb85c;
+}
+
+.submit-button,
+button[type="button"] {
+    background-color: #4caf50;
+    color: white;
+    padding: 14px 24px;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+    display: block;
+    margin: 30px auto 0;
+    transition: background-color 0.3s ease;
+}
+
+.submit-button:hover,
+button[type="button"]:hover {
+    background-color: #3e8e41;
+}
+
+.error {
+    background-color: #f8d7da;
+    color: #842029;
+    padding: 10px;
+    border: 1px solid #f5c2c7;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}

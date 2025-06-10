@@ -1,0 +1,81 @@
+PSİKOMETRİK.NET KİŞİSEL VERİLERİN KORUNMASI VE İŞLENMESİ AYDINLATMA METNİ
+
+6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) kapsamında, kişisel verilerinizin işlenmesine ilişkin bilgilendirme metnidir.
+
+1. Veri Sorumlusu
+Veri Sorumlusu: Psikometrik.net
+İletişim: destek@psikometrik.net
+
+2. Hangi Kişisel Veriler İşlenir?
+Kullanıcılarımız, yalnızca platformdan hizmet almak amacıyla kendilerinden talep edilen sınırlı bilgileri girerler. İşlenen veriler:
+
+Kimlik Bilgileri: Ad-soyad, kullanıcı ID’si.
+
+İletişim Bilgileri: E-posta adresi.
+
+Kullanıcı İşlem Bilgileri: Test sonuçları, IP adresi, oturum bilgileri.
+
+Teknik Veriler: Tarayıcı bilgisi, cihaz türü, çerez verileri.
+
+Özel Nitelikli Veriler: Psikometrik test sonuçları (açık rıza ile ve kanunen öngörülen hallerde).
+
+3. Verilerin İşlenme Amaçları
+Psikometrik hizmetlerin sunulması ve geliştirilmesi.
+
+Kullanıcı hesaplarının yönetilmesi.
+
+Yasal yükümlülüklerin yerine getirilmesi.
+
+Web sitesi analizi ve kullanıcı deneyimi iyileştirme.
+
+4. Veri İşlemenin Hukuki Sebebi
+Açık Rıza: Test sonuçları gibi özel nitelikli veriler için.
+
+Sözleşme Gereği: Hizmet sunumu için zorunlu veriler.
+
+Yasal Zorunluluk: Mahkeme, idari otorite vb. resmi talepler.
+
+Meşru Menfaat: Web sitesi güvenliği ve iş sürekliliği.
+
+5. Veri Toplama Yöntemleri
+Doğrudan Sizden: Web formları, üyelik süreci.
+
+Otomatik Yollarla: Çerezler, log dosyaları, analiz araçları.
+
+6. Veri Saklama Süresi
+Kişisel veriler, hizmet sunumu ve yasal zorunlulukların gerektirdiği süre boyunca saklanır. Süre sonunda imha edilir veya anonim hale getirilir.
+
+7. Veri Paylaşımı ve Aktarım
+Üçüncü Taraflar: Yalnızca hizmet sağlayıcılar (hosting firmaları, analiz araçları) ile sınırlı olarak paylaşılır.
+
+Resmi Talepler: Mahkeme veya yetkili kurumların yasal talepleri dışında veri paylaşımı yapılmaz.
+
+Yurtdışı Aktarım: KVKK’nın 9. maddesi uyarınca, yeterli koruma sağlanan ülkelere veya açık rıza ile aktarılır.
+
+8. Haklarınız
+KVKK Madde 11 uyarınca:
+
+Veri işlenip işlenmediğini öğrenme,
+
+Eksik/yanlış verileri düzeltme,
+
+Silinmesini veya anonimleştirilmesini talep etme,
+
+İşlenen verilerin aktarılmasını isteme,
+
+İtiraz etme ve rızanızı geri çekme.
+
+Talep İçin: destek@psikometrik.net adresine e-posta gönderiniz. Talepleriniz 30 gün içinde yanıtlanacaktır.
+
+9. Güvenlik Tedbirleri
+Kişisel verileriniz; teknik (şifreleme, güvenlik duvarı) ve idari (yetkilendirme politikaları) önlemlerle korunmaktadır.
+
+10. Çerez Politikası
+Web sitemizde performans ve kullanıcı deneyimi için çerezler kullanılır. Çerez tercihlerinizi tarayıcı ayarlarından yönetebilirsiniz. Detaylar için Çerez Politikası sayfamızı ziyaret edin.
+
+11. Değişiklikler ve İletişim
+Bu metin, güncellenebilir. Değişiklikler siteden duyurulur. Sorularınız için: destek@psikometrik.net.
+
+Psikometrik.net’i kullanarak, bu metni okuduğunuzu ve veri işleme koşullarını kabul ettiğinizi onaylarsınız.
+
+Son Güncelleme Tarihi: 13/07/2023

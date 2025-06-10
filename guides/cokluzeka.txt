@@ -1,0 +1,223 @@
+Sorular: (Sırayı bozma)
+
+Kendimi daha iyi tanımak hoşuma gider.
+
+Bir müzik aleti çalabilirim.
+
+Problemleri çözerken fiziksel bir şeyler yaparken daha rahatım.
+
+Kafamda sık sık bir şarkı veya melodi döner.
+
+Bütçe yapmak ve paramı yönetmek benim için kolaydır.
+
+Hikaye uydurmakta iyiyimdir.
+
+Her zaman koordinasyon becerim yüksek olmuştur.
+
+Biriyle konuşurken, söyledikleri kelimelere anlamları kadar dikkat ederim.
+
+Bulmaca, kelime avı gibi kelime oyunlarından keyif alırım.
+
+Belirsizlikten hoşlanmam, netlik isterim.
+
+Sudoku gibi mantık bulmacalarını severim.
+
+Meditasyon yapmayı severim.
+
+Müzik benim için çok önemlidir.
+
+İkna edici bir yalancıyımdır.
+
+Spor veya dansla ilgilenirim.
+
+Psikometri (kişilik testleri) ve IQ testleri ilgimi çeker.
+
+Mantıksız davranan insanlar beni sinirlendirir.
+
+Sevdiğim müzik genellikle duygusal durumuma göre değişir.
+
+Sosyal bir insanım ve insanlarla vakit geçirmeyi severim.
+
+Sistemli ve detaylı çalışmayı tercih ederim.
+
+Grafik ve tabloları anlamak benim için kolaydır.
+
+Dart, taş sektirme, frizbi gibi şeyleri iyi fırlatabilirim.
+
+Alıntıları veya sözleri kolayca hatırlarım.
+
+Daha önce gittiğim yerleri, çocukken bile olsa, hemen tanırım.
+
+Çeşitli müzik tarzlarından keyif alırım.
+
+Konsantre olurken karalama yapma eğilimindeyim.
+
+İstersem insanları manipüle edebilirim.
+
+Belirli durumlarda nasıl hissedeceğimi veya davranacağımı tahmin edebilirim.
+
+Zihinden matematik işlemleri yapmak benim için kolaydır.
+
+Sesleri görmeden kaynağını kolayca tanıyabilirim.
+
+Okulda en sevdiğim derslerden biri İngilizceydi/İngilizce.
+
+Bir problemi tüm sonuçlarını düşünerek çözmeyi severim.
+
+Tartışmalar ve sohbetlerden keyif alırım.
+
+Adrenalin sporları ve korku tünellerini severim.
+
+Bireysel sporları tercih ederim.
+
+Çevremdeki insanların duygularını önemserim.
+
+Evim resimler ve fotoğraflarla doludur.
+
+El işleri yapmaktan ve ellerimle çalışmaktan keyif alırım.
+
+Arka planda müzik olmasını severim.
+
+Telefon numaralarını kolayca hatırlarım.
+
+Kendime gelecek için hedefler ve planlar koyarım.
+
+Dokunsal bir insanımdır (dokunma duyum hassastır).
+
+Birinin benden hoşlanıp hoşlanmadığını kolayca anlarım.
+
+Bir nesneyi başka bir açıdan nasıl göreceğimi hayal edebilirim.
+
+Montaj talimatlarını asla okumam.
+
+Yeni insanlarla konuşmak benim için kolaydır.
+
+Yeni bir şey öğrenirken deneyerek öğrenmeyi tercih ederim.
+
+Gözlerimi kapattığımda net görüntüler görürüm.
+
+Sayarken parmaklarımı kullanmam.
+
+Sık sık kendi kendime konuşurum (sesli veya içimden).
+
+Okulda müzik derslerini severdim/severim.
+
+Yurtdışındayken, temel düzeyde başka bir dili kolayca öğrenebilirim.
+
+Top oyunları benim için kolay ve eğlencelidir.
+
+Okulda en sevdiğim ders matematikti/matematik.
+
+Her zaman nasıl hissettiğimi bilirim.
+
+Güçlü ve zayıf yönlerimin farkındayım.
+
+Günlük tutarım.
+
+İnsanların beden diline karşı çok duyarlıyım.
+
+Okulda en sevdiğim ders sanattı/sanat.
+
+Okumaktan keyif alırım.
+
+Harita okumak benim için kolaydır.
+
+Ağlayan birine yardım edememek beni üzer.
+
+İnsanlar arasındaki anlaşmazlıkları çözmede iyiyimdir.
+
+Hep müzisyen veya şarkıcı olmayı hayal etmişimdir.
+
+Takım sporlarını tercih ederim.
+
+Şarkı söylemek beni mutlu eder.
+
+Yeni bir yerde tek başımayken asla kaybolmam.
+
+Bir şeyi öğrenirken çizimler veya diyagramlar görmek isterim.
+
+Yalnız zaman geçirmekten mutluluk duyarım.
+
+Arkadaşlarım duygusal destek ve tavsiye için hep bana gelir.
+
+
+HESAPLAMA VE DEĞERLENDİRME KRİTERLERİ
+Zeka Türlerine Göre Soru Gruplaması
+Her zeka türü 10 soru ile ölçülür. İşte gruplar:
+
+1. Sözel-Dilsel Zeka
+Sorular: 6, 9, 12, 17, 23, 31, 37, 54, 60, 64
+
+
+
+2. Mantıksal-Matematiksel Zeka
+Sorular: 5, 11, 14, 20, 24, 29, 36, 44, 53, 58
+
+
+
+3. Müziksel Zeka
+Sorular: 2, 4, 13, 25, 28, 34, 42, 51, 66, 69
+
+
+
+4. Bedensel-Kinestetik Zeka
+Sorular: 3, 7, 15, 22, 38, 46, 49, 50, 53, 57
+
+
+
+5. Görsel-Uzamsal Zeka
+Sorular: 24, 27, 30, 40, 47, 52, 61, 67, 70, 71
+
+
+
+6. Sosyal Zeka
+Sorular: 8, 18, 19, 35, 43, 45, 62, 65, 68, 73
+
+
+
+7. İçsel Zeka
+Sorular: 1, 10, 16, 32, 39, 48, 55, 59, 63, 72
+
+
+
+SEÇENEKLER VE PUAN KARŞILIKLARI
+Çoğunlukla Katılmıyorum = 1 PUAN
+Biraz Katılmıyorum = 2 PUAN
+Biraz Katılıyorum = 3 PUAN
+Çoğunlukla Katılıyorum = 4 PUAN 
+
+YORUMLAMA (Alınan en yüksek skorlara göre yapılacak yorumlar)
+1. Sözel-Dilsel Zeka
+Kelime ve dil becerisi: Yazılı ve sözlü iletişimde yetenekli olma; fikirleri ve bilgiyi dil aracılığıyla aktarma, yorumlama ve açıklama. Dil ile anlam arasındaki ilişkiyi kavrama.
+
+
+
+
+
+
+2. Mantıksal-Matematiksel Zeka
+Mantık ve matematiksel düşünme: Bilimsel akıl yürütme, örüntüleri fark etme, problem analizi ve matematiksel hesaplamalar yapma. Somut sonuçlara ulaşmak için neden-sonuç ilişkilerini anlama.
+
+
+
+
+
+
+3. Müziksel Zeka
+Müzik ve ses algısı: Müzik yeteneği, ton ve ritim kalıplarını tanıma, sesleri yorumlama ve kullanma. Ses ile duygu arasındaki bağı kavrama.
+
+4. Bedensel-Kinestetik Zeka
+Beden hareketleri ve fiziksel beceri: Fiziksel çeviklik, denge, el-göz koordinasyonu ve ince motor becerileri. Nesneleri manipüle etme ve hareketle öğrenme.
+
+5. Görsel-Uzamsal Zeka
+Görsel ve mekansal algı: Görsel imgeleri yaratma, yorumlama ve hayal etme. Resimlerin anlamını ve mekânın etkisini kavrama.
+
+6. Sosyal Zeka (Kişilerarası Zeka)
+İnsan ilişkileri ve empati: Başkalarının duygularını, davranışlarını ve iletişim tarzlarını anlama. İnsanların durumlarıyla ilişki kurma becerisi.
+
+7. İçsel Zeka (Kişiye Dönük Zeka)
+Öz farkındalık ve iç gözlem: Kendi duygularını, ihtiyaçlarını ve hedeflerini anlama. Dış dünya ve diğer insanlarla olan ilişkisini objektif şekilde değerlendirme. 
+
+
+
+
